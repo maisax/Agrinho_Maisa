@@ -1,5 +1,5 @@
 # Impacto dos residuos de minerios nos rios
-Este projeto é uma página web informativa sobre os impactos dos residuos de minerios nos rios e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pela destruição das florestas, suas consequências e as ações necessárias para mitigar seus efeitos.
+Este projeto é uma página web informativa sobre os impactos dos residuos de minerios nos rios e na qualidade de vida das pessoas. Através de uma abordagem visual e clara, o conteúdo é dividido em seções que explicam os problemas causados pelos residuos de minerios, suas consequências e as ações necessárias para mitigar seus efeitos.
 
 ### Estrutura do Projeto
 Tecnologias Utilizadas:
