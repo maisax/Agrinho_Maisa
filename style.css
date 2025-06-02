@@ -1,5 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Chocolate+Classical+Sans&family=Rakkas&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Martian+Mono:wght@100..800&family=Quattrocento:wght@400;700&family=Suez+One&display=swap');
 /* Variáveis */
 :root {
     --primary-color: #2cd5e7;
@@ -10,6 +9,18 @@
     --font-body: "Chocolate Classical Sans", serif;
     --font-titulo: "Rakkas", serif;
 }
+.quattrocento-regular {
+  font-family: "Quattrocento", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.quattrocento-bold {
+  font-family: "Quattrocento", serif;
+  font-weight: 800;
+  font-style: normal;
+}
+
 
 /* código omitido */
 /* código omitido */
@@ -40,5 +51,9 @@ p {
 img {
     max-width: 90%;
 }
+.texto-claro p {
+  color: #000000;
+}
+
 
 /* código omitido */
