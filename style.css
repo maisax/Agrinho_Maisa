@@ -1,43 +1,45 @@
-@import url('https://fonts.googleapis.com/css2?family=Anton&family=Martian+Mono:wght@100..800&family=Quattrocento:wght@400;700&family=Suez+One&display=swap');
+ @import url('https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap');
+
 /* Variáveis */
 :root {
-    --primary-color: #2cd5e7;
-    --secondary-color: #3CA6A6;
-    --text-color: #024959;
-    --background-color: #e0cdba;
-    --button-hover: #0baff0;
-    --font-body: "Chocolate Classical Sans", serif;
-    --font-titulo: "Rakkas", serif;
+  --primary-color: #2cd5e7;
+  --secondary-color: #3CA6A6;
+  --text-color: #15282c;
+  --background-color: #918981;
+  --button-hover: #117299;
+  --font-body: 'Quattrocento', serif;
+  --font-titulo: 'Suez One', serif;
 }
-
-
-
-/* código omitido */
-/* código omitido */
 
 /* Reset */
 * {
-    margin: 10;
-    padding: 10;
-    box-sizing: border-box;
-    font-family: var(--font-body);
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
-/* Corpo da página */
 body {
-    background-color: var(--background-color);
-    color: var(--text-color);
-    line-height: 1.6;
+  background-color: var(--background-color);
+  color: var(--text-color);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
 }
-
+li{
+    margin-top: 20px;
+  font-size: 20px;
+}
 h3 {
-    margin-top: 25px;
+  font-family: var(--font-titulo);
+  font-size: 28px;
+  margin-top: 25px;
 }
 
 p {
-    margin-top: 20px;
-    font-size: 20px;
+  margin-top: 20px;
+  font-size: 20px;
 }
+
 
 img {
     max-width: 90%;
